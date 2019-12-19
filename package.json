@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AparnaLolla/Aparna-beingZero/issues"
   },
-  "homepage": "https://github.com/AparnaLolla/Aparna-beingZero#readme"
+  "homepage": "https://github.com/AparnaLolla/Aparna-beingZero#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
